@@ -1,1 +1,1 @@
-# PdfToTxtConverter
+# ConverterPDFtoTXT
